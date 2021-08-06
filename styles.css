@@ -17,7 +17,7 @@ header {
     font-weight: bold;
 }
 
-.clearGrid, .showGrid {
+.clearGrid, .showGrid, .adjustSize {
     background-color: #333;
     padding: 0.35em 1.2em;
     border: 0.1em solid #ededed;
@@ -29,7 +29,7 @@ header {
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 
-.clearGrid:hover, .showGrid:hover {
+.clearGrid:hover, .showGrid:hover, .adjustSize:hover {
     color: #333;
     background-color: #ededed;
     border: 1px solid #333;
